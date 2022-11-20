@@ -1,0 +1,61 @@
+Richard cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 2
+Puntaje de addq: 0
+
+Richard cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Richard respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 5
+Puntaje de addq: 0
+
+addq cantó ENVIDO!
+Richard respondió NO QUIERO UwU :(
+Richard cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 7
+Puntaje de addq: 1
+
+addq cantó ENVIDO!
+Richard respondió QUIERO!
+Tantos de Richard: 24
+Tantos de addq: 25
+
+addq cantó TRUCO!
+Richard respondió QUIERO!
+Ganador del envido: addq
+Ganador del truco: addq
+Puntaje de Richard: 7
+Puntaje de addq: 5
+
+addq cantó ENVIDO!
+Richard respondió NO QUIERO UwU :(
+Richard cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de Richard: 8
+Puntaje de addq: 6
+
+Richard cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Richard respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 11
+Puntaje de addq: 6
+
+Richard cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 13
+Puntaje de addq: 6
+
+addq cantó ENVIDO!
+Richard respondió QUIERO!
+Tantos de Richard: 30
+Tantos de addq: 22
+
+

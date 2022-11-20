@@ -23,9 +23,7 @@ namespace Vista
 
         private void frm_MenuPrincipal_Load(object sender, EventArgs e)
         {
-            //SerializadorDeCartas cartas = new SerializadorDeCartas();
-            //Carta.CargarCartas(cartas.Cartas);
-            //Serializador<SerializadorDeCartas>.EscribirJSon(cartas, "MazoDeCartas");
+       
             listaDeJugadores = Conexiones.ObtenerJugadores();
             ActualizarListaDePartidas();
             btn_VerPartida.Enabled = false;
@@ -67,7 +65,6 @@ namespace Vista
         private void btn_VerPartida_Click(object sender, EventArgs e)
         {
             frm_Mesa formularioMesa = new frm_Mesa(listaDePartidas[indiceDataGridPartidas]);
-            //this.Hide();
             formularioMesa.Show();
             ActualizarListaDePartidas();
             this.Show();

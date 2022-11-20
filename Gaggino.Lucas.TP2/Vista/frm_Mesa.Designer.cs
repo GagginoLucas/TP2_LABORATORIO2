@@ -39,8 +39,9 @@
             // lbl_CartasJugador1
             // 
             this.lbl_CartasJugador1.AutoSize = true;
+            this.lbl_CartasJugador1.BackColor = System.Drawing.Color.Transparent;
             this.lbl_CartasJugador1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.lbl_CartasJugador1.Location = new System.Drawing.Point(123, 59);
+            this.lbl_CartasJugador1.Location = new System.Drawing.Point(137, 33);
             this.lbl_CartasJugador1.Name = "lbl_CartasJugador1";
             this.lbl_CartasJugador1.Size = new System.Drawing.Size(0, 25);
             this.lbl_CartasJugador1.TabIndex = 2;
@@ -48,8 +49,9 @@
             // lbl_CartasJugador2
             // 
             this.lbl_CartasJugador2.AutoSize = true;
+            this.lbl_CartasJugador2.BackColor = System.Drawing.Color.Transparent;
             this.lbl_CartasJugador2.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.lbl_CartasJugador2.Location = new System.Drawing.Point(123, 327);
+            this.lbl_CartasJugador2.Location = new System.Drawing.Point(137, 301);
             this.lbl_CartasJugador2.Name = "lbl_CartasJugador2";
             this.lbl_CartasJugador2.Size = new System.Drawing.Size(0, 25);
             this.lbl_CartasJugador2.TabIndex = 3;
@@ -64,7 +66,7 @@
             // 
             this.rtx_Partida.BackColor = System.Drawing.SystemColors.HighlightText;
             this.rtx_Partida.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.rtx_Partida.Location = new System.Drawing.Point(487, 29);
+            this.rtx_Partida.Location = new System.Drawing.Point(489, 33);
             this.rtx_Partida.Name = "rtx_Partida";
             this.rtx_Partida.Size = new System.Drawing.Size(379, 362);
             this.rtx_Partida.TabIndex = 8;

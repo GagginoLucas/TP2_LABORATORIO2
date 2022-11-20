@@ -351,10 +351,10 @@ namespace Biblioteca.Modelos
             }
         }
 
-        public void ControlarTurnos() //Controla si es necesario realizar el cambio de turno.
+        public void ControlarTurnos() 
         {
             if (Jugador1.CartasEnMano.Count == Jugador2.CartasEnMano.Count &&
-                Jugador1.CartasEnMano.Count < 3 && Jugador2.CartasEnMano.Count < 3) //
+                Jugador1.CartasEnMano.Count < 3 && Jugador2.CartasEnMano.Count < 3) 
             {
                 AsignarTurnoYSumarManosGanadas(FlagSeEstaJugandoElEnvido);
             }
@@ -484,7 +484,7 @@ namespace Biblioteca.Modelos
             IniciarPartida();
             while (VerificarSiHayGanador() == false)
             {
-                Thread.Sleep(20);
+                Thread.Sleep(1000);
                 if (TerminoLaRonda() == true)
                 {
                     eventoReiniciarPartida?.Invoke();
@@ -561,7 +561,6 @@ namespace Biblioteca.Modelos
 
                 if (EnvidoFinalizado == false)
                 {
-                    //mesaView.CantarJ1 = partida.JugarEnvido(partida.Jugador1, partida.Jugador2);
                     texto = JugarEnvido(Jugador1, Jugador2);
 
                 }
@@ -570,7 +569,6 @@ namespace Biblioteca.Modelos
                 {
                     if (TrucoFinalizado == false)
                     {
-                        //mesaView.CantarJ1 = partida.JugarTruco(partida.Jugador1, partida.Jugador2);
                         texto = JugarTruco(Jugador1, Jugador2);
                         if (Jugador1.CantóTruco == true && Jugador2.CantóTruco == true)
                         {
@@ -578,7 +576,6 @@ namespace Biblioteca.Modelos
                         }
                     }
 
-                    //carta = Jugador1.Usuario + "\n" + JugarUnaCarta(Jugador1,Jugador2.UltimaCartaJugada).ToString();
                     cartaj1 += Jugador1.Usuario + "\n" + JugarUnaCarta(Jugador1, Jugador2.UltimaCartaJugada).ToString() + "\n";
                     CantidadDeTurnos++;
 
@@ -592,7 +589,6 @@ namespace Biblioteca.Modelos
             {
                 if (EnvidoFinalizado == false)
                 {
-                    //mesaView.CantarJ2 = partida.JugarEnvido(partida.Jugador2, partida.Jugador1);
                     texto = JugarEnvido(Jugador2, Jugador1);
                 }
 
@@ -601,7 +597,6 @@ namespace Biblioteca.Modelos
                 {
                     if (TrucoFinalizado == false)
                     {
-                        //mesaView.CantarJ2 = partida.JugarTruco(partida.Jugador2, partida.Jugador1);
                         texto = JugarTruco(Jugador2, Jugador1);
                         if (Jugador1.CantóTruco == true && Jugador2.CantóTruco == true)
                         {
@@ -609,7 +604,6 @@ namespace Biblioteca.Modelos
                         }
                     }
 
-                    //carta = Jugador2.Usuario + "\n" + JugarUnaCarta(Jugador2, Jugador1.UltimaCartaJugada).ToString();
                     cartaj2 += Jugador2.Usuario + "\n" + JugarUnaCarta(Jugador2, Jugador1.UltimaCartaJugada).ToString() + "\n";
                     CantidadDeTurnos++;
 
