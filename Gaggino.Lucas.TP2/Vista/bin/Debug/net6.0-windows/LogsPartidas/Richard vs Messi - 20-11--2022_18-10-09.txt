@@ -1,0 +1,74 @@
+Messi cantó TRUCO!
+Richard respondió NO QUIERO UwU :(
+Puntaje de Richard: 0
+Puntaje de Messi: 1
+
+Richard cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de Richard: 1
+Puntaje de Messi: 1
+
+Messi cantó TRUCO!
+Richard respondió QUIERO!
+Ganador del truco: Messi
+Puntaje de Richard: 1
+Puntaje de Messi: 3
+
+Messi cantó ENVIDO!
+Richard respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+Richard respondió NO QUIERO UwU :(
+Puntaje de Richard: 1
+Puntaje de Messi: 5
+
+Richard cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Richard cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de Richard: 3
+Puntaje de Messi: 5
+
+Richard cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Richard cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de Richard: 5
+Puntaje de Messi: 5
+
+Richard cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de Richard: 6
+Puntaje de Messi: 5
+
+Messi cantó ENVIDO!
+Richard respondió QUIERO!
+Tantos de Richard: 32
+Tantos de Messi: 21
+
+Messi cantó TRUCO!
+Richard respondió NO QUIERO UwU :(
+Ganador del envido: Richard
+Puntaje de Richard: 8
+Puntaje de Messi: 6
+
+Richard cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+Richard respondió QUIERO!
+Ganador del truco: Richard
+Puntaje de Richard: 11
+Puntaje de Messi: 6
+
+Richard cantó ENVIDO!
+Messi respondió QUIERO!
+Tantos de Richard: 27
+Tantos de Messi: 25
+
+Richard cantó TRUCO!
+Messi respondió QUIERO!
+Ganador del envido: Richard
+Ganador del truco: Richard
+Puntaje de Richard: 15
+Puntaje de Messi: 6
+
+
