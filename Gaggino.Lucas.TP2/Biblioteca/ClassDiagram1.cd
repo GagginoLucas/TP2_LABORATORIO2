@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteca.Modelos.Administrador" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Carta" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAQAAEAEAAAAAEAAAABAAAAAEAAAABAAA=</HashCode>
+      <FileName>Modelos\Carta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Conexiones" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAwACAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\Conexiones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Jugador" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKGQgAABEIAEAAFBAKABIAAIASAEAABgAACAAAAIkA=</HashCode>
+      <FileName>Modelos\Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.ManejadorDeArchivos" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Modelos\ManejadorDeArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Partida" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAhpgygiUckBwAMkFlC2JAgQQWAcImEIBCRAIBFICBA=</HashCode>
+      <FileName>Modelos\Partida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Persona" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAgAAAAAAAAAQAAAAEAAAAAgA=</HashCode>
+      <FileName>Modelos\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.Serializador&lt;T&gt;" Collapsed="true">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\Serializador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Modelos.SerializadorDeCartas" Collapsed="true">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\SerializadorDeCartas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Presentadores.PresentadorAgregarPartida" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentadores\PresentadorAgregarPartida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Presentadores.PresentadorLogin" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAABAAAAEAgAAAAAAAEAAAAQA=</HashCode>
+      <FileName>Presentadores\PresentadorLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Presentadores.PresentadorMenuPrincipal" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentadores\PresentadorMenuPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Presentadores.PresentadorMesa" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAABAAAAAAgAAAAEAAAAAAAEAAAAAAABAAAAAAAIA=</HashCode>
+      <FileName>Presentadores\PresentadorMesa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Biblioteca.Interfaces.IAgregarPartida" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAgregarPartida.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biblioteca.Interfaces.ILogin" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAgAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILogin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biblioteca.Interfaces.IMenuPrincipal" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMenuPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biblioteca.Interfaces.IMesa" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMesa.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Biblioteca.Modelos.Valor" Collapsed="true">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAIAAAAQAAQBAADAAACAAAACAAABAAgAAAgAI=</HashCode>
+      <FileName>Modelos\Carta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

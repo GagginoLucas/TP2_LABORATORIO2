@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj": {}
+    "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\gaggi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj": {
+    "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
+        "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
+        "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
         "packagesPath": "C:\\Users\\gaggi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\obj\\",
+        "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

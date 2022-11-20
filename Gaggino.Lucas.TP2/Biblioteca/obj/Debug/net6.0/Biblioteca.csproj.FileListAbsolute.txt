@@ -10,3 +10,15 @@ C:\Users\gaggi\Desktop\TP2_LABO\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Bi
 C:\Users\gaggi\Desktop\TP2_LABO\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
 C:\Users\gaggi\Desktop\TP2_LABO\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
 C:\Users\gaggi\Desktop\TP2_LABO\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\gaggi\Desktop\TP2_LABORATORIO2\Gaggino.Lucas.TP2\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MxsTKOOK2pzJF/w1N4B/GaJ3bVVD4ruwhDGvdAFm9Fpwc+UK6BQbjsks3nx9CFfCNkg0P2t9IgS5xXAUopU9w==",
+  "dgSpecHash": "whjK5062f60zjkJdEH5YPaLHxTmnRuRM1r7EKWaeEHlT4K/RKTtVEHiqursI4BqXUwEp6alb3C1U6ZnNLBGGRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
+  "projectFilePath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Vista\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gaggi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\gaggi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

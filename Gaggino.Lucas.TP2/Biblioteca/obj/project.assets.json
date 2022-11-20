@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\gaggi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaggi\\AppData\\Roaming\\NuGet\\NuGet.Config",

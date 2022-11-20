@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IOIp5WVNR/1BcXqIy2oswQKJ5IViOHTIc5ho+nPOvee0JbyZPPvBMSYsjsflsDMoNteemXjDfgKh3IywruJQYA==",
+  "dgSpecHash": "aXpi+RQ4NTt6N3wUzefTCJA54gl/715VcEXQYFx+pn433/0B/rjPDXbbB31E72Ik3qBSprRA3a5VdTsKZ7PvQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gaggi\\Desktop\\TP2_LABO\\Gaggino.Lucas.TP2\\Modelos.Deberia\\Modelos.Deberia.csproj",
+  "projectFilePath": "C:\\Users\\gaggi\\Desktop\\TP2_LABORATORIO2\\Gaggino.Lucas.TP2\\Modelos.Deberia\\Modelos.Deberia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gaggi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\gaggi\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
