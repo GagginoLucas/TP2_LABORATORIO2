@@ -241,6 +241,7 @@
             this.Controls.Add(this.cmb_Estadisticas);
             this.Controls.Add(this.dgv_Estadisticas);
             this.Controls.Add(this.btn_IrAtras);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frm_Estadisticas";
             this.ShowIcon = false;
             this.Text = "Estadisticas";

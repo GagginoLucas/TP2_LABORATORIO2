@@ -1,0 +1,91 @@
+addq cantó ENVIDO!
+sensei respondió QUIERO!
+Tantos de addq: 32
+Tantos de sensei: 25
+
+addq cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del envido: addq
+Ganador del truco: sensei
+Puntaje de addq: 2
+Puntaje de sensei: 2
+
+sensei cantó ENVIDO!
+addq respondió QUIERO!
+Tantos de addq: 22
+Tantos de sensei: 28
+
+sensei cantó TRUCO!
+addq respondió QUIERO!
+Ganador del envido: sensei
+Ganador del truco: sensei
+Puntaje de addq: 2
+Puntaje de sensei: 6
+
+addq cantó ENVIDO!
+sensei respondió QUIERO!
+Tantos de addq: 27
+Tantos de sensei: 24
+
+sensei cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Ganador del envido: addq
+Puntaje de addq: 4
+Puntaje de sensei: 7
+
+addq cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 6
+Puntaje de sensei: 7
+
+sensei cantó ENVIDO!
+addq respondió QUIERO!
+Tantos de addq: 27
+Tantos de sensei: 23
+
+sensei cantó TRUCO!
+addq respondió QUIERO!
+Ganador del envido: addq
+Ganador del truco: sensei
+Puntaje de addq: 8
+Puntaje de sensei: 9
+
+sensei cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del truco: sensei
+Puntaje de addq: 8
+Puntaje de sensei: 12
+
+sensei cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+sensei cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 10
+Puntaje de sensei: 13
+
+addq cantó ENVIDO!
+sensei respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 13
+Puntaje de sensei: 13
+
+sensei cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+sensei respondió NO QUIERO UwU :(
+Puntaje de addq: 14
+Puntaje de sensei: 14
+
+sensei cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: sensei
+Puntaje de addq: 14
+Puntaje de sensei: 16
+
+

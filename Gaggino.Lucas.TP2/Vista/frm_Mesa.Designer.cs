@@ -96,7 +96,7 @@
             this.Controls.Add(this.rtx_Partida);
             this.Controls.Add(this.lbl_CartasJugador2);
             this.Controls.Add(this.lbl_CartasJugador1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frm_Mesa";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

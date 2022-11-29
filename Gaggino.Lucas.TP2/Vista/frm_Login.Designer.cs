@@ -109,6 +109,7 @@
             this.Controls.Add(this.btn_Ingresar);
             this.Controls.Add(this.txt_Contraseña);
             this.Controls.Add(this.txt_Usuario);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frm_Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";

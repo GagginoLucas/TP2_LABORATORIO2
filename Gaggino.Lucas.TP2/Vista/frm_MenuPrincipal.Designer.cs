@@ -163,6 +163,7 @@
             this.Controls.Add(this.btn_VerPartida);
             this.Controls.Add(this.btn_Estadisticas);
             this.Controls.Add(this.btn_CrearPartida);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frm_MenuPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bienvenido";
