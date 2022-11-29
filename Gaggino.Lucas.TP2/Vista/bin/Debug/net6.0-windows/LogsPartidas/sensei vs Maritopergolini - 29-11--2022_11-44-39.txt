@@ -1,0 +1,87 @@
+sensei cantó ENVIDO!
+Maritopergolini respondió QUIERO!
+Tantos de sensei: 30
+Tantos de Maritopergolini: 20
+
+sensei cantó TRUCO!
+Maritopergolini respondió QUIERO!
+Ganador del envido: sensei
+Ganador del truco: Maritopergolini
+Puntaje de sensei: 2
+Puntaje de Maritopergolini: 2
+
+Maritopergolini cantó ENVIDO!
+sensei respondió QUIERO!
+Tantos de sensei: 20
+Tantos de Maritopergolini: 29
+
+Maritopergolini cantó TRUCO!
+sensei respondió NO QUIERO UwU :(
+Ganador del envido: Maritopergolini
+Puntaje de sensei: 2
+Puntaje de Maritopergolini: 5
+
+sensei cantó ENVIDO!
+Maritopergolini respondió NO QUIERO UwU :(
+sensei cantó TRUCO!
+Maritopergolini respondió QUIERO!
+Ganador del truco: sensei
+Puntaje de sensei: 5
+Puntaje de Maritopergolini: 5
+
+Maritopergolini cantó TRUCO!
+sensei respondió NO QUIERO UwU :(
+Puntaje de sensei: 5
+Puntaje de Maritopergolini: 6
+
+sensei cantó ENVIDO!
+Maritopergolini respondió QUIERO!
+Tantos de sensei: 21
+Tantos de Maritopergolini: 26
+
+sensei cantó TRUCO!
+Maritopergolini respondió QUIERO!
+Ganador del envido: Maritopergolini
+Ganador del truco: sensei
+Puntaje de sensei: 7
+Puntaje de Maritopergolini: 8
+
+Maritopergolini cantó ENVIDO!
+sensei respondió NO QUIERO UwU :(
+Maritopergolini cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del truco: sensei
+Puntaje de sensei: 9
+Puntaje de Maritopergolini: 9
+
+Maritopergolini cantó ENVIDO!
+sensei respondió NO QUIERO UwU :(
+sensei cantó TRUCO!
+Maritopergolini respondió NO QUIERO UwU :(
+Puntaje de sensei: 10
+Puntaje de Maritopergolini: 10
+
+Maritopergolini cantó ENVIDO!
+sensei respondió QUIERO!
+Tantos de sensei: 26
+Tantos de Maritopergolini: 27
+
+Maritopergolini cantó TRUCO!
+Ganador del envido: Maritopergolini
+Puntaje de sensei: 10
+Puntaje de Maritopergolini: 12
+
+sensei cantó ENVIDO!
+Maritopergolini respondió NO QUIERO UwU :(
+Maritopergolini cantó TRUCO!
+sensei respondió QUIERO!
+Ganador del truco: sensei
+Puntaje de sensei: 13
+Puntaje de Maritopergolini: 12
+
+sensei cantó ENVIDO!
+Maritopergolini respondió QUIERO!
+Tantos de sensei: 29
+Tantos de Maritopergolini: 22
+
+

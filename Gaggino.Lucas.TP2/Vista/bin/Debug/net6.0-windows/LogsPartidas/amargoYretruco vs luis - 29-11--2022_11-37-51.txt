@@ -1,0 +1,87 @@
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del truco: luis
+Puntaje de amargoYretruco: 0
+Puntaje de luis: 3
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 3
+Puntaje de luis: 3
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 4
+Puntaje de luis: 4
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 24
+Tantos de luis: 20
+
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Ganador del envido: amargoYretruco
+Puntaje de amargoYretruco: 6
+Puntaje de luis: 5
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: luis
+Puntaje de amargoYretruco: 7
+Puntaje de luis: 7
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 9
+Puntaje de luis: 8
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 25
+Tantos de luis: 20
+
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Ganador del envido: amargoYretruco
+Puntaje de amargoYretruco: 11
+Puntaje de luis: 9
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 13
+Puntaje de luis: 9
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 14
+Puntaje de luis: 9
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 20
+Tantos de luis: 33
+
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Ganador del envido: luis
+Puntaje de amargoYretruco: 14
+Puntaje de luis: 12
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+

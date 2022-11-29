@@ -1,0 +1,83 @@
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: luis
+Puntaje de amargoYretruco: 1
+Puntaje de luis: 2
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 2
+Puntaje de luis: 2
+
+luis cantó ENVIDO!
+amargoYretruco respondió QUIERO!
+Tantos de amargoYretruco: 20
+Tantos de luis: 24
+
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del envido: luis
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 4
+Puntaje de luis: 4
+
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 6
+Puntaje de luis: 4
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 30
+Tantos de luis: 20
+
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del envido: amargoYretruco
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 10
+Puntaje de luis: 4
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del truco: luis
+Puntaje de amargoYretruco: 11
+Puntaje de luis: 6
+
+luis cantó ENVIDO!
+amargoYretruco respondió QUIERO!
+Tantos de amargoYretruco: 20
+Tantos de luis: 27
+
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del envido: luis
+Ganador del truco: luis
+Puntaje de amargoYretruco: 11
+Puntaje de luis: 10
+
+amargoYretruco cantó ENVIDO!
+luis respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 12
+Puntaje de luis: 11
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 12
+Puntaje de luis: 13
+
+luis cantó ENVIDO!
+amargoYretruco respondió QUIERO!
+Tantos de amargoYretruco: 26
+Tantos de luis: 29
+
+

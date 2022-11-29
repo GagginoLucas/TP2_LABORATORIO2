@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btn_CrearPartida = new System.Windows.Forms.Button();
             this.btn_Estadisticas = new System.Windows.Forms.Button();
             this.btn_VerPartida = new System.Windows.Forms.Button();
@@ -39,6 +39,7 @@
             this.partidaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tmr_MenuPrincipal = new System.Windows.Forms.Timer(this.components);
             this.btn_Salir = new System.Windows.Forms.Button();
+            this.btn_AgregarJugador = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Partidas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.partidaBindingSource)).BeginInit();
             this.SuspendLayout();
@@ -57,7 +58,7 @@
             // btn_Estadisticas
             // 
             this.btn_Estadisticas.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btn_Estadisticas.Location = new System.Drawing.Point(35, 140);
+            this.btn_Estadisticas.Location = new System.Drawing.Point(35, 210);
             this.btn_Estadisticas.Name = "btn_Estadisticas";
             this.btn_Estadisticas.Size = new System.Drawing.Size(123, 40);
             this.btn_Estadisticas.TabIndex = 2;
@@ -68,7 +69,7 @@
             // btn_VerPartida
             // 
             this.btn_VerPartida.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btn_VerPartida.Location = new System.Drawing.Point(35, 237);
+            this.btn_VerPartida.Location = new System.Drawing.Point(35, 300);
             this.btn_VerPartida.Name = "btn_VerPartida";
             this.btn_VerPartida.Size = new System.Drawing.Size(123, 40);
             this.btn_VerPartida.TabIndex = 3;
@@ -82,8 +83,8 @@
             this.dgv_Partidas.AllowUserToDeleteRows = false;
             this.dgv_Partidas.AllowUserToResizeColumns = false;
             this.dgv_Partidas.AllowUserToResizeRows = false;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.dgv_Partidas.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.dgv_Partidas.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgv_Partidas.AutoGenerateColumns = false;
             this.dgv_Partidas.BackgroundColor = System.Drawing.Color.DarkOrange;
             this.dgv_Partidas.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
@@ -98,7 +99,7 @@
             this.dgv_Partidas.Name = "dgv_Partidas";
             this.dgv_Partidas.ReadOnly = true;
             this.dgv_Partidas.RowTemplate.Height = 25;
-            this.dgv_Partidas.Size = new System.Drawing.Size(247, 318);
+            this.dgv_Partidas.Size = new System.Drawing.Size(247, 374);
             this.dgv_Partidas.TabIndex = 4;
             this.dgv_Partidas.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgv_Partidas_RowHeaderMouseClick_1);
             // 
@@ -129,7 +130,7 @@
             // btn_Salir
             // 
             this.btn_Salir.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btn_Salir.Location = new System.Drawing.Point(35, 321);
+            this.btn_Salir.Location = new System.Drawing.Point(35, 377);
             this.btn_Salir.Name = "btn_Salir";
             this.btn_Salir.Size = new System.Drawing.Size(123, 40);
             this.btn_Salir.TabIndex = 5;
@@ -137,14 +138,26 @@
             this.btn_Salir.UseVisualStyleBackColor = true;
             this.btn_Salir.Click += new System.EventHandler(this.btn_Salir_Click);
             // 
+            // btn_AgregarJugador
+            // 
+            this.btn_AgregarJugador.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_AgregarJugador.Location = new System.Drawing.Point(35, 122);
+            this.btn_AgregarJugador.Name = "btn_AgregarJugador";
+            this.btn_AgregarJugador.Size = new System.Drawing.Size(123, 40);
+            this.btn_AgregarJugador.TabIndex = 6;
+            this.btn_AgregarJugador.Text = "CREAR JUGADOR";
+            this.btn_AgregarJugador.UseVisualStyleBackColor = true;
+            this.btn_AgregarJugador.Click += new System.EventHandler(this.btn_AgregarJugador_Click);
+            // 
             // frm_MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Vista.Properties.Resources.fondo_agregarPartida;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(662, 412);
+            this.ClientSize = new System.Drawing.Size(662, 451);
             this.ControlBox = false;
+            this.Controls.Add(this.btn_AgregarJugador);
             this.Controls.Add(this.btn_Salir);
             this.Controls.Add(this.dgv_Partidas);
             this.Controls.Add(this.btn_VerPartida);
@@ -170,5 +183,6 @@
         private DataGridViewTextBoxColumn jugador1DataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn jugador2DataGridViewTextBoxColumn;
         private Button btn_Salir;
+        private Button btn_AgregarJugador;
     }
 }

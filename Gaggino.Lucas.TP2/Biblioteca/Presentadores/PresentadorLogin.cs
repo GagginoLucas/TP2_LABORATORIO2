@@ -13,16 +13,15 @@ namespace Biblioteca.Presentadores
     {
         ILogin viewLogin;
         int autocompletar = 0;
-        List<Administrador> admin;
+        List<Administrador>? admin;
         public PresentadorLogin(ILogin viewLogin)
         {
             this.viewLogin = viewLogin;
-
-            admin = Conexiones.ObtenerAdministradores();
         }
 
         public bool Verificar()
         {
+            admin = Conexiones.ObtenerAdministradores();
             foreach (Administrador administrador in admin)
             {
                 if (viewLogin.Nombre == administrador.Usuario && viewLogin.Password == administrador.Contraseña)
@@ -40,6 +39,7 @@ namespace Biblioteca.Presentadores
 
         public void AutoCompletarDatos()
         {
+            admin = Conexiones.ObtenerAdministradores();
             viewLogin.Nombre = admin[autocompletar].Usuario;
             viewLogin.Password = admin[autocompletar].Contraseña;
             autocompletar++;

@@ -95,12 +95,12 @@ namespace Biblioteca.Modelos
         public void IniciarPartida()
         {
             Jugador1.EsMano = true;
-            repartirMano();
+            RepartirMano();
             Jugador1.EstaEnPartida = true;
             Jugador2.EstaEnPartida = true;
         }
 
-        public static List<Carta> RepartirCartas(List<Carta> mazo)
+        public List<Carta> RepartirCartas()
         {
             List<Carta> manoDelJugador = new();
             int indiceCartaRandom;
@@ -108,23 +108,38 @@ namespace Biblioteca.Modelos
             Random rand = new Random();
             for (int i = 0; i < 3; i++)
             {
-                indiceCartaRandom = rand.Next(0, mazo.Count);
-                auxCarta = mazo[indiceCartaRandom];
+                indiceCartaRandom = rand.Next(0, MazoDeCartas.Count);
+                auxCarta = MazoDeCartas[indiceCartaRandom];
                 manoDelJugador.Add(auxCarta);
-                mazo.Remove(auxCarta);
+                MazoDeCartas.Remove(auxCarta);
             }
             return manoDelJugador;
         }
 
-        public void repartirMano()
+        public void RepartirMano()
         {
-            jugador1.CartasEnMano = RepartirCartas(MazoDeCartas);
-            jugador2.CartasEnMano = RepartirCartas(MazoDeCartas);
             MazoDeCartas.Clear();
             MazoDeCartas = Carta.CargarCartas();
+            jugador1.CartasEnMano = RepartirCartas();
+            jugador2.CartasEnMano = RepartirCartas();
+            SumarAnchosAEstadisticas(jugador1);
+            SumarAnchosAEstadisticas(jugador2);
         }
 
+        public void SumarAnchosAEstadisticas(Jugador jugador)
+        {
+            foreach (Carta carta in jugador.CartasEnMano)
+            {
+                if(carta.Valor == Valor.AnchoDeEspada)
+                {
+                    jugador.CantidadDeAnchosDeEspada++;
+                }else if(carta.Valor == Valor.AnchoDeBasto)
+                {
+                    jugador.CantidadDeAnchosDeBasto++;
 
+                }
+            }
+        }
 
         public void AsignarTurnoYSumarManosGanadas(bool flagEstaJugandoEnvido)
         {
@@ -206,6 +221,8 @@ namespace Biblioteca.Modelos
                 Ganador = jugador1.Usuario;
                 GanadorDeLaPartida = jugador1.Usuario;
                 PerdedorDeLaPartida = jugador2.Usuario;
+                Jugador1.CantidadDePartidasJugadas++;
+                Jugador2.CantidadDePartidasJugadas++;
                 retorno = true;
             }
             else if (jugador2.Puntaje >= 15)
@@ -215,6 +232,8 @@ namespace Biblioteca.Modelos
                 Ganador = jugador2.Usuario;
                 GanadorDeLaPartida = jugador2.Usuario;
                 PerdedorDeLaPartida = jugador1.Usuario;
+                Jugador1.CantidadDePartidasJugadas++;
+                Jugador2.CantidadDePartidasJugadas++;
                 retorno = true;
             }
 
@@ -523,11 +542,10 @@ namespace Biblioteca.Modelos
 
             resumen += $"TERMINO LA PARTIDAAA, EL GANADOR FUE {GanadorDeLaPartida}";
             jugarPartida?.Invoke();
-            Jugador1.CantidadDePartidasJugadas++;
-            Jugador2.CantidadDePartidasJugadas++;
             GuardarPartidaEnTxt(miPartida);
             Jugador1.Puntaje = 0;
             Jugador2.Puntaje = 0;
+
             Jugador1.EstaEnPartida = false;
             Jugador2.EstaEnPartida = false;
             terminoLaPartida = true;
@@ -636,7 +654,7 @@ namespace Biblioteca.Modelos
             Jugador2.ManosGanadas = 0;
             Jugador1.CartasEnMano.Clear();
             Jugador2.CartasEnMano.Clear();
-            repartirMano();
+            RepartirMano();
             Jugador1.CantóEnvido = false;
             Jugador2.CantóEnvido = false;
             Jugador1.CantóTruco = false;
@@ -767,7 +785,7 @@ namespace Biblioteca.Modelos
             eventoReiniciarPartida += MostrarLabelGanadorDelTruco;
             eventoReiniciarPartida += MostrarPuntajeEnRichTextBox;
             eventoReiniciarPartida += ReiniciarFlagsYParametros;
-            eventoReiniciarPartida += repartirMano;
+            eventoReiniciarPartida += RepartirMano;
 
         }
 

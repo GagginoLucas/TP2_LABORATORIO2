@@ -24,7 +24,8 @@ namespace Vista
 
         private void btn_Ingresar_Click(object sender, EventArgs e)
         {
-            
+            try
+            {
                 if (presentadorLogin.Verificar())
                 {
                     frm_MenuPrincipal formularioPrincipal = new frm_MenuPrincipal();
@@ -36,6 +37,15 @@ namespace Vista
                 {
                     presentadorLogin.MostrarError();
                 }
+            }
+            catch
+            {
+                if(MessageBox.Show("Error en la conexión a la base de datos.", "ErrorDatos", MessageBoxButtons.OK, MessageBoxIcon.Warning) == DialogResult.OK)
+                {
+                    Application.Exit();
+                }
+            }
+
             
         }
 
@@ -44,9 +54,21 @@ namespace Vista
             Application.Exit();
         }
 
+
         private void btn_AutoCompletar_Click(object sender, EventArgs e)
         {
-            presentadorLogin.AutoCompletarDatos();
+            try
+            {
+                presentadorLogin.AutoCompletarDatos();
+
+            }
+            catch
+            {
+                if (MessageBox.Show("Error en la conexión a la base de datos.", "ErrorDatos", MessageBoxButtons.OK, MessageBoxIcon.Warning) == DialogResult.OK)
+                {
+                    Application.Exit();
+                }
+            }
         }
     }
 }

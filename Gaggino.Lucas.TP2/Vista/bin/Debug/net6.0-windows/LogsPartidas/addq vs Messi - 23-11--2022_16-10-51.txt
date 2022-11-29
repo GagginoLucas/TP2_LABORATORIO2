@@ -1,0 +1,103 @@
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de addq: 0
+Puntaje de Messi: 1
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de addq: 1
+Puntaje de Messi: 2
+
+addq cantó ENVIDO!
+Messi respondió QUIERO!
+Tantos de addq: 20
+Tantos de Messi: 30
+
+addq cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Ganador del envido: Messi
+Puntaje de addq: 2
+Puntaje de Messi: 4
+
+addq cantó ENVIDO!
+Messi respondió QUIERO!
+Tantos de addq: 21
+Tantos de Messi: 27
+
+addq cantó TRUCO!
+Ganador del envido: Messi
+Puntaje de addq: 2
+Puntaje de Messi: 6
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Messi respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 5
+Puntaje de Messi: 6
+
+Messi cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de addq: 6
+Puntaje de Messi: 7
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Messi
+Puntaje de addq: 7
+Puntaje de Messi: 9
+
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 9
+Puntaje de Messi: 9
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de addq: 10
+Puntaje de Messi: 10
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de addq: 11
+Puntaje de Messi: 11
+
+Messi cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Puntaje de addq: 11
+Puntaje de Messi: 12
+
+addq cantó ENVIDO!
+Messi respondió QUIERO!
+Tantos de addq: 33
+Tantos de Messi: 23
+
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Ganador del envido: addq
+Puntaje de addq: 13
+Puntaje de Messi: 13
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Messi
+Puntaje de addq: 14
+Puntaje de Messi: 15
+
+addq cantó ENVIDO!
+

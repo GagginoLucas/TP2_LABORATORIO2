@@ -1,0 +1,69 @@
+addq cantó TRUCO!
+Messi respondió QUIERO!
+Ganador del envido: Messi
+Ganador del truco: Messi
+Puntaje de addq: 0
+Puntaje de Messi: 2
+
+Messi cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: addq
+Puntaje de addq: 2
+Puntaje de Messi: 3
+
+Messi cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió NO QUIERO UwU :(
+Puntaje de addq: 2
+Puntaje de Messi: 5
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Messi
+Puntaje de addq: 3
+Puntaje de Messi: 7
+
+addq cantó ENVIDO!
+Messi respondió NO QUIERO UwU :(
+addq cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Puntaje de addq: 5
+Puntaje de Messi: 7
+
+Messi cantó ENVIDO!
+addq respondió QUIERO!
+Tantos de addq: 31
+Tantos de Messi: 33
+
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del envido: Messi
+Ganador del truco: Messi
+Puntaje de addq: 5
+Puntaje de Messi: 11
+
+addq cantó ENVIDO!
+Messi respondió QUIERO!
+Tantos de addq: 26
+Tantos de Messi: 31
+
+addq cantó TRUCO!
+Messi respondió NO QUIERO UwU :(
+Ganador del envido: Messi
+Puntaje de addq: 6
+Puntaje de Messi: 13
+
+Messi cantó ENVIDO!
+addq respondió NO QUIERO UwU :(
+Messi cantó TRUCO!
+addq respondió QUIERO!
+Ganador del truco: Messi
+Puntaje de addq: 6
+Puntaje de Messi: 16
+
+

@@ -9,9 +9,11 @@ namespace Biblioteca.Modelos
     public class Jugador : Persona
     {
         private int id;
-        private int cantidadDePartidasJugadas;
-        private int cantidadDePartidasGanadas;
-        private int cantidadDePartidasPerdidas;
+        private int cantidadDePartidasJugadas = 0;
+        private int cantidadDePartidasGanadas = 0;
+        private int cantidadDePartidasPerdidas = 0;
+        private int cantidadDeAnchosDeEspada = 0;
+        private int cantidadDeAnchosDeBasto = 0;
         private int manosGanadas;
         private bool esMano;
         private bool cantóEnvido;
@@ -23,16 +25,19 @@ namespace Biblioteca.Modelos
         private List<Carta> cartasEnMano;
         private bool estaEnPartida;
 
-        public Jugador(int id, string nombre, string apellido, string usuario, int cantidadDePartidasJugadas, int cantidadDePartidasGanadas, int cantidadDePartidasPerdidas) : base(id, nombre, apellido, usuario)
+        public Jugador(int id, string nombre, string apellido, string usuario, int cantidadDePartidasGanadas, int cantidadDePartidasJugadas, int cantidadDePartidasPerdidas, int cantidadDeAnchosDeEspada, int cantidadDeAnchosDeBasto) : base(id, nombre, apellido, usuario)
         {
 
             Id = id;
             CantidadDePartidasJugadas = cantidadDePartidasJugadas;
             CantidadDePartidasGanadas = cantidadDePartidasGanadas;
             CantidadDePartidasPerdidas = cantidadDePartidasPerdidas;
+            CantidadDeAnchosDeBasto = cantidadDeAnchosDeBasto;
+            CantidadDeAnchosDeEspada = cantidadDeAnchosDeEspada;
             puntaje = 0;
         }
 
+      
 
         public int CantidadDePartidasJugadas { get => cantidadDePartidasJugadas; set => cantidadDePartidasJugadas = value; }
         public int CantidadDePartidasGanadas { get => cantidadDePartidasGanadas; set => cantidadDePartidasGanadas = value; }
@@ -50,6 +55,8 @@ namespace Biblioteca.Modelos
         public bool GanoElEnvido { get => ganoElEnvido; set => ganoElEnvido = value; }
         public bool EstaEnPartida { get => estaEnPartida; set => estaEnPartida = value; }
         public int Id { get => id; set => id = value; }
+        public int CantidadDeAnchosDeEspada { get => cantidadDeAnchosDeEspada; set => cantidadDeAnchosDeEspada = value; }
+        public int CantidadDeAnchosDeBasto { get => cantidadDeAnchosDeBasto; set => cantidadDeAnchosDeBasto = value; }
 
         public override string ToString()
         {
@@ -57,7 +64,6 @@ namespace Biblioteca.Modelos
             jugador = usuario;
             return jugador;
         }
-
 
     }
 }

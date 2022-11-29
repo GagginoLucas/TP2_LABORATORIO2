@@ -1,0 +1,86 @@
+Ferrari cantó ENVIDO!
+Nico respondió QUIERO!
+Tantos de Ferrari: 22
+Tantos de Nico: 27
+
+Ferrari cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del envido: Nico
+Ganador del truco: Ferrari
+Puntaje de Ferrari: 2
+Puntaje de Nico: 2
+
+Ferrari cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Nico cantó TRUCO!
+Ferrari respondió QUIERO!
+Ganador del truco: Ferrari
+Puntaje de Ferrari: 5
+Puntaje de Nico: 2
+
+Ferrari cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Ferrari cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del truco: Nico
+Puntaje de Ferrari: 6
+Puntaje de Nico: 4
+
+Ferrari cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Nico cantó TRUCO!
+Ferrari respondió NO QUIERO UwU :(
+Puntaje de Ferrari: 7
+Puntaje de Nico: 5
+
+Ferrari cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del truco: Nico
+Puntaje de Ferrari: 7
+Puntaje de Nico: 7
+
+Nico cantó ENVIDO!
+Ferrari respondió NO QUIERO UwU :(
+Nico cantó TRUCO!
+Ferrari respondió QUIERO!
+Ganador del truco: Ferrari
+Puntaje de Ferrari: 9
+Puntaje de Nico: 8
+
+Ferrari cantó ENVIDO!
+Nico respondió QUIERO!
+Tantos de Ferrari: 27
+Tantos de Nico: 25
+
+Ferrari cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del envido: Ferrari
+Ganador del truco: Nico
+Puntaje de Ferrari: 11
+Puntaje de Nico: 10
+
+Nico cantó ENVIDO!
+Ferrari respondió QUIERO!
+Tantos de Ferrari: 24
+Tantos de Nico: 21
+
+Nico cantó TRUCO!
+Ferrari respondió QUIERO!
+Ganador del envido: Ferrari
+Ganador del truco: Nico
+Puntaje de Ferrari: 13
+Puntaje de Nico: 12
+
+Ferrari cantó ENVIDO!
+Nico respondió QUIERO!
+Tantos de Ferrari: 27
+Tantos de Nico: 31
+
+Ferrari cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del envido: Nico
+Ganador del truco: Nico
+Puntaje de Ferrari: 13
+Puntaje de Nico: 16
+
+

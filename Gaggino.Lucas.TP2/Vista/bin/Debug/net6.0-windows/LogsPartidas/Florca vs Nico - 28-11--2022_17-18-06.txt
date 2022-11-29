@@ -1,0 +1,75 @@
+Nico cantó TRUCO!
+Florca respondió QUIERO!
+Ganador del envido: Florca
+Ganador del truco: Nico
+Puntaje de Florca: 2
+Puntaje de Nico: 2
+
+Florca cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Florca cantó TRUCO!
+Nico respondió NO QUIERO UwU :(
+Puntaje de Florca: 4
+Puntaje de Nico: 2
+
+Florca cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Florca cantó TRUCO!
+Nico respondió QUIERO!
+Ganador del truco: Florca
+Puntaje de Florca: 7
+Puntaje de Nico: 2
+
+Nico cantó ENVIDO!
+Florca respondió NO QUIERO UwU :(
+Florca cantó TRUCO!
+Nico respondió NO QUIERO UwU :(
+Puntaje de Florca: 8
+Puntaje de Nico: 3
+
+Nico cantó ENVIDO!
+Florca respondió QUIERO!
+Tantos de Florca: 27
+Tantos de Nico: 28
+
+Nico cantó TRUCO!
+Florca respondió NO QUIERO UwU :(
+Ganador del envido: Nico
+Puntaje de Florca: 8
+Puntaje de Nico: 6
+
+Nico cantó ENVIDO!
+Florca respondió QUIERO!
+Tantos de Florca: 23
+Tantos de Nico: 22
+
+Nico cantó TRUCO!
+Florca respondió QUIERO!
+Ganador del envido: Florca
+Ganador del truco: Nico
+Puntaje de Florca: 10
+Puntaje de Nico: 8
+
+Florca cantó ENVIDO!
+Nico respondió QUIERO!
+Tantos de Florca: 23
+Tantos de Nico: 25
+
+Florca cantó TRUCO!
+Nico respondió NO QUIERO UwU :(
+Ganador del envido: Nico
+Puntaje de Florca: 11
+Puntaje de Nico: 10
+
+Florca cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Florca cantó TRUCO!
+Nico respondió NO QUIERO UwU :(
+Puntaje de Florca: 13
+Puntaje de Nico: 10
+
+Florca cantó ENVIDO!
+Nico respondió NO QUIERO UwU :(
+Florca cantó TRUCO!
+Nico respondió NO QUIERO UwU :(
+

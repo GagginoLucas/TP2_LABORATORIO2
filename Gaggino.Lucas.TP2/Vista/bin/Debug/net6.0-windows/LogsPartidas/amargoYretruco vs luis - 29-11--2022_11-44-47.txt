@@ -1,0 +1,90 @@
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 28
+Tantos de luis: 26
+
+amargoYretruco cantó TRUCO!
+luis respondió NO QUIERO UwU :(
+Ganador del envido: amargoYretruco
+Puntaje de amargoYretruco: 3
+Puntaje de luis: 0
+
+luis cantó ENVIDO!
+amargoYretruco respondió QUIERO!
+Tantos de amargoYretruco: 24
+Tantos de luis: 26
+
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del envido: luis
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 5
+Puntaje de luis: 2
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 26
+Tantos de luis: 28
+
+luis cantó TRUCO!
+amargoYretruco respondió QUIERO!
+Ganador del envido: luis
+Ganador del truco: luis
+Puntaje de amargoYretruco: 5
+Puntaje de luis: 6
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 7
+Puntaje de luis: 7
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 9
+Puntaje de luis: 8
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+luis cantó TRUCO!
+amargoYretruco respondió NO QUIERO UwU :(
+Puntaje de amargoYretruco: 9
+Puntaje de luis: 10
+
+luis cantó ENVIDO!
+amargoYretruco respondió NO QUIERO UwU :(
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del truco: amargoYretruco
+Puntaje de amargoYretruco: 11
+Puntaje de luis: 11
+
+luis cantó ENVIDO!
+amargoYretruco respondió QUIERO!
+Tantos de amargoYretruco: 29
+Tantos de luis: 25
+
+amargoYretruco cantó TRUCO!
+luis respondió NO QUIERO UwU :(
+Ganador del envido: amargoYretruco
+Puntaje de amargoYretruco: 14
+Puntaje de luis: 11
+
+amargoYretruco cantó ENVIDO!
+luis respondió QUIERO!
+Tantos de amargoYretruco: 23
+Tantos de luis: 25
+
+amargoYretruco cantó TRUCO!
+luis respondió QUIERO!
+Ganador del envido: luis
+Ganador del truco: luis
+Puntaje de amargoYretruco: 14
+Puntaje de luis: 15
+
+

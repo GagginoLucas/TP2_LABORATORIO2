@@ -23,8 +23,7 @@ namespace Vista
 
         private void frm_MenuPrincipal_Load(object sender, EventArgs e)
         {
-       
-            listaDeJugadores = Conexiones.ObtenerJugadores();
+            ActualizarListaDeJugadores();
             ActualizarListaDePartidas();
             btn_VerPartida.Enabled = false;
         }
@@ -37,6 +36,12 @@ namespace Vista
             ActualizarListaDePartidas();
             this.Show();
         }
+
+        private void ActualizarListaDeJugadores()
+        {
+            listaDeJugadores = Conexiones.ObtenerJugadores();
+        }
+
 
         private void ActualizarListaDePartidas()
         {
@@ -53,6 +58,12 @@ namespace Vista
 
             if(flaghayParaRemover == true)
             listaDePartidas.Remove(listaDePartidas[indice]);
+
+
+            if (listaDePartidas.Count <= 0)
+            {
+                btn_VerPartida.Enabled = false;
+            }
 
             dgv_Partidas.DataSource = null;
             
@@ -93,6 +104,17 @@ namespace Vista
         private void btn_Salir_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
+        }
+
+        private void btn_AgregarJugador_Click(object sender, EventArgs e)
+        {
+            frm_AgregarJugador formAgregarJugador = new frm_AgregarJugador();
+            this.Hide();
+            if (formAgregarJugador.ShowDialog() == DialogResult.OK)
+            {
+                ActualizarListaDeJugadores();
+            }
+            this.Show();
         }
     }
 }
