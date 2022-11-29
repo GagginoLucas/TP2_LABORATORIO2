@@ -92,8 +92,6 @@ namespace Modelos.Deberia
             partidaTest.JugarTruco(partidaTest.Jugador1, partidaTest.Jugador2);
             Assert.IsNotNull(partidaTest.Jugador1);
             Assert.IsNotNull(partidaTest.Jugador2);
-
-
         }
 
     }

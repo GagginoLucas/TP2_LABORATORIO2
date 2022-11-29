@@ -126,6 +126,7 @@
             this.dgv_Estadisticas.Location = new System.Drawing.Point(69, 112);
             this.dgv_Estadisticas.MultiSelect = false;
             this.dgv_Estadisticas.Name = "dgv_Estadisticas";
+            this.dgv_Estadisticas.ReadOnly = true;
             this.dgv_Estadisticas.RowTemplate.Height = 25;
             this.dgv_Estadisticas.Size = new System.Drawing.Size(643, 182);
             this.dgv_Estadisticas.TabIndex = 2;
@@ -143,30 +144,35 @@
             this.cantidadDePartidasJugadasDataGridViewTextBoxColumn.DataPropertyName = "CantidadDePartidasJugadas";
             this.cantidadDePartidasJugadasDataGridViewTextBoxColumn.HeaderText = "Partidas jugadas";
             this.cantidadDePartidasJugadasDataGridViewTextBoxColumn.Name = "cantidadDePartidasJugadasDataGridViewTextBoxColumn";
+            this.cantidadDePartidasJugadasDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // cantidadDePartidasGanadasDataGridViewTextBoxColumn
             // 
             this.cantidadDePartidasGanadasDataGridViewTextBoxColumn.DataPropertyName = "CantidadDePartidasGanadas";
             this.cantidadDePartidasGanadasDataGridViewTextBoxColumn.HeaderText = "Partidas ganadas";
             this.cantidadDePartidasGanadasDataGridViewTextBoxColumn.Name = "cantidadDePartidasGanadasDataGridViewTextBoxColumn";
+            this.cantidadDePartidasGanadasDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // cantidadDePartidasPerdidasDataGridViewTextBoxColumn
             // 
             this.cantidadDePartidasPerdidasDataGridViewTextBoxColumn.DataPropertyName = "CantidadDePartidasPerdidas";
             this.cantidadDePartidasPerdidasDataGridViewTextBoxColumn.HeaderText = "Partidas perdidas";
             this.cantidadDePartidasPerdidasDataGridViewTextBoxColumn.Name = "cantidadDePartidasPerdidasDataGridViewTextBoxColumn";
+            this.cantidadDePartidasPerdidasDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn
             // 
             this.cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn.DataPropertyName = "CantidadDeAnchosDeEspada";
             this.cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn.HeaderText = "Anchos de espada obtenidos";
             this.cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn.Name = "cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn";
+            this.cantidadDeAnchosDeEspadaDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // cantidadDeAnchosDeBastoDataGridViewTextBoxColumn
             // 
             this.cantidadDeAnchosDeBastoDataGridViewTextBoxColumn.DataPropertyName = "CantidadDeAnchosDeBasto";
             this.cantidadDeAnchosDeBastoDataGridViewTextBoxColumn.HeaderText = "Anchos de basto obtenidos";
             this.cantidadDeAnchosDeBastoDataGridViewTextBoxColumn.Name = "cantidadDeAnchosDeBastoDataGridViewTextBoxColumn";
+            this.cantidadDeAnchosDeBastoDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // jugadorBindingSource5
             // 
@@ -202,6 +208,7 @@
             this.dgv_Partidas.DataSource = this.partidaBindingSource3;
             this.dgv_Partidas.Location = new System.Drawing.Point(220, 112);
             this.dgv_Partidas.Name = "dgv_Partidas";
+            this.dgv_Partidas.ReadOnly = true;
             this.dgv_Partidas.RowTemplate.Height = 25;
             this.dgv_Partidas.Size = new System.Drawing.Size(348, 217);
             this.dgv_Partidas.TabIndex = 4;
@@ -212,18 +219,21 @@
             this.ganadorDeLaPartidaDataGridViewTextBoxColumn.DataPropertyName = "GanadorDeLaPartida";
             this.ganadorDeLaPartidaDataGridViewTextBoxColumn.HeaderText = "Ganador";
             this.ganadorDeLaPartidaDataGridViewTextBoxColumn.Name = "ganadorDeLaPartidaDataGridViewTextBoxColumn";
+            this.ganadorDeLaPartidaDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // PerdedorDeLaPartida
             // 
             this.PerdedorDeLaPartida.DataPropertyName = "PerdedorDeLaPartida";
             this.PerdedorDeLaPartida.HeaderText = "Perdedor";
             this.PerdedorDeLaPartida.Name = "PerdedorDeLaPartida";
+            this.PerdedorDeLaPartida.ReadOnly = true;
             // 
             // fechaDataGridViewTextBoxColumn
             // 
             this.fechaDataGridViewTextBoxColumn.DataPropertyName = "Fecha";
             this.fechaDataGridViewTextBoxColumn.HeaderText = "Fecha";
             this.fechaDataGridViewTextBoxColumn.Name = "fechaDataGridViewTextBoxColumn";
+            this.fechaDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // partidaBindingSource3
             // 
@@ -235,7 +245,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Vista.Properties.Resources.fondo_agregarPartida;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(784, 429);
+            this.ClientSize = new System.Drawing.Size(780, 425);
             this.ControlBox = false;
             this.Controls.Add(this.dgv_Partidas);
             this.Controls.Add(this.cmb_Estadisticas);
